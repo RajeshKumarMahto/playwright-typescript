@@ -1,0 +1,21 @@
+{
+  "name": "playwright-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RajeshKumarMahto/playwright-typescript.git"
+  },
+  "author": "Rajesh Kumar Mahto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RajeshKumarMahto/playwright-typescript/issues"
+  },
+  "homepage": "https://github.com/RajeshKumarMahto/playwright-typescript#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.25.0",
+    "playwright": "^1.25.0"
+  }
+}
